@@ -1,1 +1,0 @@
-pandoc result.md -o result.pdf --pdf-engine=xelatex
